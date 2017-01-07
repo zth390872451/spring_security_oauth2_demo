@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: helloworld
+server:
+  port: 2000
+  context-path: /helloworld
+
